@@ -1,0 +1,7 @@
+# Virtual environment.
+sentinelvenv/
+.vscode
+
+# Python cache files.
+__pycache__/
+
