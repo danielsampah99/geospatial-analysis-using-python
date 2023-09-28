@@ -5,3 +5,7 @@ sentinelvenv/
 # Python cache files.
 __pycache__/
 
+.idea/other.xml
+.idea/geospatial-analysis-using-python.iml
+.idea/other.xml
+.idea/
